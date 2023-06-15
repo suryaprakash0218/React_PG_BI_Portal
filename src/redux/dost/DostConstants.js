@@ -1,0 +1,2 @@
+export const DOST_ALL_TRANS = 'DOST_ALL_TRANS';
+export const DOST_MONTHLY_TRANS = 'DOST_MONTHLY_TRANS';

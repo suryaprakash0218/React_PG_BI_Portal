@@ -1,0 +1,2 @@
+export const RTA_ALL_TRANS = 'RTA_ALL_TRANS';
+export const RTA_MONTHLY_TRANS = 'RTA_MONTHLY_TRANS';
